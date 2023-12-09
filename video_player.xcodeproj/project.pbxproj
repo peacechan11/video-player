@@ -16,6 +16,7 @@
 		64FB3BBB2B249D560005F687 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FB3BBA2B249D560005F687 /* video_playerTests.swift */; };
 		64FB3BC52B249D560005F687 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FB3BC42B249D560005F687 /* video_playerUITests.swift */; };
 		64FB3BC72B249D560005F687 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FB3BC62B249D560005F687 /* video_playerUITestsLaunchTests.swift */; };
+		64FB3BD62B24A7F20005F687 /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 64FB3BD52B24A7F20005F687 /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		64FB3BC02B249D560005F687 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		64FB3BC42B249D560005F687 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		64FB3BC62B249D560005F687 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		64FB3BD52B24A7F20005F687 /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = test.mp4; path = ../../../../../Downloads/test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		64FB3BA22B249D540005F687 /* video_player */ = {
 			isa = PBXGroup;
 			children = (
+				64FB3BD52B24A7F20005F687 /* test.mp4 */,
 				64FB3BA32B249D540005F687 /* AppDelegate.swift */,
 				64FB3BA52B249D540005F687 /* SceneDelegate.swift */,
 				64FB3BA72B249D540005F687 /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				64FB3BB02B249D560005F687 /* LaunchScreen.storyboard in Resources */,
 				64FB3BAD2B249D560005F687 /* Assets.xcassets in Resources */,
 				64FB3BAB2B249D540005F687 /* Main.storyboard in Resources */,
+				64FB3BD62B24A7F20005F687 /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
